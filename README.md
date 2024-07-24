@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋, Always working to better my technical abilities and apply myself to open source projects.
+
 
 <!--
 **ryanoluigbo/RyanOluigbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
